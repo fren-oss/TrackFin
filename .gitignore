@@ -51,3 +51,4 @@ app.*.map.json
 # are no longer built or shipped, so they stay out of the public repository.
 /ios/
 /macos/
+.vercel
