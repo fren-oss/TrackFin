@@ -29,8 +29,8 @@ flutter build web --release
 python3 tool/serve_web.py 8899
 ```
 
-Buka `http://localhost:8899`. Script tersebut sengaja disabling cache supaya
-perubahan kode langsung terlihat.
+Buka `http://localhost:8899`. Script tersebut sengaja menonaktifkan cache
+supaya perubahan kode langsung terlihat.
 
 ## Sinkronisasi Google Sheets
 
